@@ -1,7 +1,7 @@
-/* Your custom CSS styles */
+
 .image-container {
-    height: 100vh; /* Set height to viewport height */
-    background-image: url('Copy\ of\ Wall_Kiaat\ 1.png'); /* Replace with the path to your image */
+    height: 100vh;
+    background-image: url('Copy\ of\ Wall_Kiaat\ 1.png');
     background-size: cover;
     background-position: center;
     position: relative;
